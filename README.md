@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm currently working on improving my programming and management skills.
+- 👯 I’m looking to collaborate on intressting projects.
+- 
 <!--
 **saifaldeenalkhateeb/saifaldeenalkhateeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
